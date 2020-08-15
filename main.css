@@ -38,7 +38,7 @@ h1, .about-head, .tech-list, .dates, .experience-description h4 {
 
 @media (min-width: 768px) {
   .head-content {
-    background-image: url("images/tablet.jpg");
+    background-image: url(images/tablet.jpg);
     height: 1000px;
   }
 }
